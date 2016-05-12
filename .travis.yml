@@ -1,4 +1,9 @@
 language: php
+
+os:
+  - linux
+  - osx
+
 php:
   - 5.5
   - 5.4
